@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+  <file>icons/back.png</file>
+  <file>icons/next.png</file>
+  <file>icons/del.png</file>
+  <file>icons/ac.png</file>
+  <file>icons/cal.png</file>
+</qresource>
+</RCC>
