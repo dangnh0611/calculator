@@ -10,7 +10,9 @@ Qt is cross-paltform,so the source code can be build on other platforms(Window,M
 
 ## Cross-platform:Android,Window,Linux
 
-![](https://github.com/dangnh0611/calculator_qt/blob/master/Screenshot%20from%202018-11-26%2000-14-37.png?raw=true)
+![](https://github.com/dangnh0611/calculator_qt/blob/master/linux_screenshot.png?raw=true)
+
+![](https://github.com/dangnh0611/calculator_qt/blob/master/android_screenshot.png?raw=true)
 
 ## Feature:
 
