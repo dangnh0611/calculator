@@ -18,12 +18,11 @@ Qt is cross-paltform,so the source code can be build on other platforms(Window,M
 
 Simple calculator provides the features which can calculate almost basic expression:
 
-  +Input from either key board or button clicking
+  +Input either from key board or button clicking
   
-  +Simple math operator/function:+,-,×,÷,^,logarit,..
+  +Simple math operators/functions:+,-,×,÷,^,logarit,..
   
-  +Math functions:sin,cos,tan,arcsin,..
+  +Trigonometries:sin,cos,tan,arcsin,..
   
   +Previous/Next expression(which have been calculated yet)
   
-  +High precision with long double datatype
